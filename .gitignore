@@ -2,3 +2,5 @@ Dataset/*
 leCNN.*
 signnames.csv
 .DS_*
+.ipynb*
+checkpoint*
