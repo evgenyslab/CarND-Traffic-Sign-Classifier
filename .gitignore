@@ -1,3 +1,4 @@
 Dataset/*
 leCNN.*
-
+signnames.csv
+.DS_*
